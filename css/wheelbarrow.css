@@ -2,12 +2,6 @@ html {
   background: url(../images/beautiful-day.jpg) no-repeat top center;
 }
 
-img {
-  position: relative;
-  z-index: 11;
-  cursor: pointer;
-}
-
 .wrapper {
   position: relative;
   width: 960px;
